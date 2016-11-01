@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Group</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_recycle_view">RecycleViewActivity</string>
+
+    <string-array name="names">
+        <item>Евгеній Жданов</item>
+        <item>Едгар Хіміч</item>
+        <item>Олександр Сторчак</item>
+        <item>Євгеній Ситник</item>
+        <item>Альона Бочкарьова</item>
+        <item>Богдан Рибак</item>
+        <item>Ірина Смалько</item>
+        <item>Владислав Вінник</item>
+        <item>Ігор Пахаренко</item>
+        <item>Андрій Рябко</item>
+        <item>Іван Левченко</item>
+        <item>Микола Піхманець</item>
+        <item>Руслан Мигаль</item>
+        <item>Руслан Воловик</item>
+        <item>Валерій Губський</item>
+        <item>Іван Сергієнко</item>
+        <item>Вова Лимарь</item>
+        <item>Даша Кириченко</item>
+        <item>Михайло Теплий</item>
+        <item>Павло Сакуров</item>
+
+
+    </string-array>
+
+</resources>
